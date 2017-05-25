@@ -1,8 +1,14 @@
-AR LIFX Controller
-========
+# A Blank PhoneGap App
 
-An augmented reality controller to control LIFX lightbulbs using awe.js, the browser and IFTTT.
+## Usage
 
-If you make something neat from this code, please do let me know! I'm on Twitter at @thatpatrickguy, or you can find me at http://www.patrickcatanzariti.com.
+### PhoneGap CLI
 
-PatCat
+    $ phonegap create my-app --template blank
+
+### Desktop
+
+In your browser, open the file:
+
+    /www/index.html
+
